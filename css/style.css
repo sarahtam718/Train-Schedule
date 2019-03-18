@@ -1,0 +1,49 @@
+body {
+    margin: auto;
+    background: #22c1c3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fdbb2d, #22c1c3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fdbb2d, #22c1c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#title {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Monoton', cursive;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#container {
+    width: 70%;
+    margin: auto;
+}
+
+th {
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(212, 19, 212);
+}
+
+table {
+    background-color: #ffffff;
+    font-size: 16px;
+    padding: 20px;
+    border: 2px solid plum;
+    margin: auto;
+    color: rgb(231, 52, 231);
+    font-family: 'Gochi Hand', cursive;
+}
+
+
+form {
+    background-color: #ffffff;
+    font-size: 20px;
+    padding: 20px;
+    border: 2px solid plum;
+    margin: auto;
+    width: 70%;
+    color: rgb(231, 52, 231);
+    font-family: 'Gochi Hand', cursive;
+}
